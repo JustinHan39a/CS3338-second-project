@@ -1,0 +1,58 @@
+commit a960323d6a6562a6ececc591428420b360c2dae4
+Merge: be4294e 07bdfec
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 11:40:49 2026 -0800
+
+    Merge branch 'main' of https://github.com/JustinHan39a/CS3338-second-project
+
+commit be4294e5a42521d51832d9c2332dd1b8f08d14e6
+Merge: 3140a0a 063b322
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 11:32:04 2026 -0800
+
+    Resolve merge conflict in index.html
+
+commit 063b3222aee2c9584923d666107fe80321739041
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 11:29:15 2026 -0800
+
+    Added a div that says what my favorite movie is
+
+commit 3140a0ace90c21ca632e35e32d7b7ca9b247714c
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 11:28:03 2026 -0800
+
+    Added a div that says what my favorite food is
+
+commit 4053401ea0ec69e6e279b76a4efbbbeb8c7423ec
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 11:11:20 2026 -0800
+
+    Add README.md describing the repo
+
+commit 479684908960fe54de8363d279d5b269d395c758
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 11:04:18 2026 -0800
+
+    Add README.md describing the repo
+
+commit 07bdfecd7c05b8537f0c4af82a69e5927dab1a08
+Merge: 1d2bfc0 c76ced7
+Author: Justin Han <43800795+JustinHan39a@users.noreply.github.com>
+Date:   Fri Jan 30 10:58:38 2026 -0800
+
+    Merge pull request #1 from JustinHan39a/info-fill
+    
+    Filled in the two blanks
+
+commit c76ced7612fcf79c911f1058daa6d9fbdae3c008
+Author: JustinHan39a <justinhan56@gmail.com>
+Date:   Fri Jan 30 10:33:16 2026 -0800
+
+    Filled in the two blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
